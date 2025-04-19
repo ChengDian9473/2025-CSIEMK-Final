@@ -448,7 +448,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6370f965d939194429e2bab038cfaf8e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a67ce495259ab294d88c452201e3f00e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -599,7 +599,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e2c4394904e4f6f4eb4d4fadb53f574a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e4f2fdfb9602e0541a947f609d88c253, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1035,7 +1035,7 @@ GameObject:
   - component: {fileID: 84263716}
   - component: {fileID: 84263715}
   m_Layer: 5
-  m_Name: Course (40)
+  m_Name: C41
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1192,7 +1192,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 447cb6e9ccdd8f5488026d864223afe9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2d7ef7ab646ff8944a745be2b4711d48, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1360,7 +1360,7 @@ GameObject:
   - component: {fileID: 104297752}
   - component: {fileID: 104297751}
   m_Layer: 5
-  m_Name: Course (30)
+  m_Name: C31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1517,7 +1517,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3d4315294eb451c499c2a3d64f0aa5ca, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ee9ae242842b37343b2af04f0aa4565c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1592,7 +1592,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d90c5656b5a4791488ad0b52cbb41c17, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 86f70c1626091d047a57a687afa2f65d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1626,7 +1626,7 @@ GameObject:
   - component: {fileID: 121625638}
   - component: {fileID: 121625637}
   m_Layer: 5
-  m_Name: Course (31)
+  m_Name: C32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1783,7 +1783,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0e2cda30f1a824a44822f2ce195ed2da, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 893f8dab1372b644abeb27f35234516d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1817,7 +1817,7 @@ GameObject:
   - component: {fileID: 125964181}
   - component: {fileID: 125964180}
   m_Layer: 5
-  m_Name: Course
+  m_Name: C1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1974,7 +1974,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1a344c55070f7904e801b0aa69ca7033, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9b167632e00722c4a8fa9eeab24d54a6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2183,7 +2183,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f3b2e19e617bcc046975745e896506cb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 284dcae16c1d2624b912dc33ccf1c17f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2293,7 +2293,7 @@ GameObject:
   - component: {fileID: 162216091}
   - component: {fileID: 162216090}
   m_Layer: 5
-  m_Name: Course (4)
+  m_Name: C5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2450,7 +2450,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 22daa3af328ad4844949aefe7fac6191, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 294e4e86dcc5a1947b63782060b0c4f4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2735,7 +2735,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c413904f9d8b0bb4aa489780d8dc25f5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bccd630c557d44c4a8a0f09a6dda38ff, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2971,7 +2971,7 @@ GameObject:
   - component: {fileID: 213042656}
   - component: {fileID: 213042655}
   m_Layer: 5
-  m_Name: Course (6)
+  m_Name: C7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3128,7 +3128,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c0f83940e992dfc4891283c4d783d924, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ea0f9fb1a2af67040ac6a4d27d444dc3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3296,7 +3296,7 @@ GameObject:
   - component: {fileID: 242706020}
   - component: {fileID: 242706019}
   m_Layer: 5
-  m_Name: Course (42)
+  m_Name: C43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3453,7 +3453,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c5c3cf01b8d68144eb30d8adef4c7b02, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2b552d75eecefa4388e5ef99163a7e3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3604,7 +3604,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 36c0f759e2b7c20408b6239d5b29ce49, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c368a626e1d89084988422813f2b8030, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3847,7 +3847,7 @@ GameObject:
   - component: {fileID: 303838573}
   - component: {fileID: 303838572}
   m_Layer: 5
-  m_Name: Course (5)
+  m_Name: C6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4004,7 +4004,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7b5c5b214ca391e428473865947c7688, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4e0a032975c94984782d6508c3cff722, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4079,7 +4079,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 884fa8e3cec2ba04dae1c2a58341b424, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 34f82ac1993a4d9439e5d4cf55045b66, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4323,7 +4323,7 @@ GameObject:
   - component: {fileID: 363900557}
   - component: {fileID: 363900556}
   m_Layer: 5
-  m_Name: Course (2)
+  m_Name: C3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4480,7 +4480,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3d9a3962d9d3ed148981decbf6bdae7d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 42759871f21e0a249abbf6f9ea6ce676, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4590,7 +4590,7 @@ GameObject:
   - component: {fileID: 371150603}
   - component: {fileID: 371150602}
   m_Layer: 5
-  m_Name: Course (35)
+  m_Name: C36
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4747,7 +4747,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a9f14f84d6fc7c046a93fe952773ebee, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 44435044d66219643974665f55464154, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4781,7 +4781,7 @@ GameObject:
   - component: {fileID: 462204741}
   - component: {fileID: 462204740}
   m_Layer: 5
-  m_Name: Course (41)
+  m_Name: C42
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4938,7 +4938,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 34849912eb229d94687c471e49d1fcf2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5bdf7d310fbb39546a96b3f8c27ac5dd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5013,7 +5013,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72126c26326746d489a96f242a271a86, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ebede69c61fc1aa458cda97f5df90e44, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5047,7 +5047,7 @@ GameObject:
   - component: {fileID: 473510024}
   - component: {fileID: 473510023}
   m_Layer: 5
-  m_Name: Course (24)
+  m_Name: C25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5204,7 +5204,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 898963814f6f1f0479646575c3ab26c5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 672e34c2014ba26418b7064f795c6b16, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5372,7 +5372,7 @@ GameObject:
   - component: {fileID: 478680294}
   - component: {fileID: 478680293}
   m_Layer: 5
-  m_Name: Course (32)
+  m_Name: C33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5529,7 +5529,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8c3a0baf55673f448a17d16b806f7b21, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 22daa3af328ad4844949aefe7fac6191, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5563,7 +5563,7 @@ GameObject:
   - component: {fileID: 488057648}
   - component: {fileID: 488057647}
   m_Layer: 5
-  m_Name: Course (28)
+  m_Name: C29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5720,7 +5720,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e302352b072418e4b9537021c5e8fa9d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 520280ae827a9704a9ffa84754306ae8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5887,7 +5887,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 17952d61100a99246ba6ec73dac80db1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0d84687d733e4e34eb87a64e87cf3876, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5921,7 +5921,7 @@ GameObject:
   - component: {fileID: 544499807}
   - component: {fileID: 544499806}
   m_Layer: 5
-  m_Name: Course (22)
+  m_Name: C23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6078,7 +6078,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f6d4156ee5ff1144cb0db4fc20552d8e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7b5c5b214ca391e428473865947c7688, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7348,7 +7348,7 @@ GameObject:
   - component: {fileID: 662796231}
   - component: {fileID: 662796230}
   m_Layer: 5
-  m_Name: Course (8)
+  m_Name: C9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7505,7 +7505,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ddaa0941b44fb424795fe5f72f77859c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a2daf1fda007e594d9d32de895ec0dc2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7539,7 +7539,7 @@ GameObject:
   - component: {fileID: 668750805}
   - component: {fileID: 668750804}
   m_Layer: 5
-  m_Name: Course (20)
+  m_Name: C21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7696,7 +7696,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5e4ae4ef010533f43ac49654cf1a3865, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5aaf53a217b520a4eb8557a0d2171a97, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7730,7 +7730,7 @@ GameObject:
   - component: {fileID: 719054857}
   - component: {fileID: 719054856}
   m_Layer: 5
-  m_Name: Course (12)
+  m_Name: C13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7887,7 +7887,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f2b552d75eecefa4388e5ef99163a7e3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ca45b371ef5447a4f84a14b15ff28e50, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8038,7 +8038,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b90fe67193ff11a4facee99782582f4e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2034a1d7fe6b25843ab2cfc24e2d4411, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8375,7 +8375,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f7276054ac97a004282712fa04d0f634, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 63755d74252737341a61af684bf987fc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8409,7 +8409,7 @@ GameObject:
   - component: {fileID: 770504015}
   - component: {fileID: 770504014}
   m_Layer: 5
-  m_Name: Course (16)
+  m_Name: C17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8566,7 +8566,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bda2fb828ce1efe40aa78edcab775d8c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f0b1efe59a06f3e4fb04bb41b1c6f1c4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8641,7 +8641,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b0a1b834502a4d3408b5bdb2f110fcd1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ab3551e023321344d9b82c8fb0dcdaf3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8716,7 +8716,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1d69d49c79e0c8546ab3a2dc65a5539e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2045d27f1f872c942b3daf81cecc9096, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8894,7 +8894,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 95069bbfb13eb6040bbfb67cb71162d5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fa6a4384eb12c8a468410acc49b78868, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9389,7 +9389,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 60dadd1ea8c40d84481f6e89f6f6fbe3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0bb29cb37f900b64487e45d577f5e757, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9423,7 +9423,7 @@ GameObject:
   - component: {fileID: 840614236}
   - component: {fileID: 840614235}
   m_Layer: 5
-  m_Name: Course (44)
+  m_Name: C45
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9580,7 +9580,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 512a2db0ad566f348babe0f07721baf7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7afa4c422bd7be245bdf83c402ce25c6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9807,7 +9807,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 15765d215c5bfca47ac7906f604939e6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e08e053c02d48ba48a0d436fb11e476d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9841,7 +9841,7 @@ GameObject:
   - component: {fileID: 872673746}
   - component: {fileID: 872673745}
   m_Layer: 5
-  m_Name: Course (27)
+  m_Name: C28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9998,7 +9998,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 42759871f21e0a249abbf6f9ea6ce676, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 60e51ee08c3797544a71ed3d3e10d2fa, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10166,7 +10166,7 @@ GameObject:
   - component: {fileID: 885807258}
   - component: {fileID: 885807257}
   m_Layer: 5
-  m_Name: Course (17)
+  m_Name: C18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10323,7 +10323,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9b167632e00722c4a8fa9eeab24d54a6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3b9d8da0f16e8024c8999a1c8e3673e4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10501,7 +10501,7 @@ GameObject:
   - component: {fileID: 896828985}
   - component: {fileID: 896828984}
   m_Layer: 5
-  m_Name: Course (9)
+  m_Name: C10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10658,7 +10658,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b7acef8b467f5c2428241cef786f5996, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f66c21db73f2ff049bb294a3e6bab4f3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10943,7 +10943,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6c9819b002a7c3f4296788c9d94f8929, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bbd39f5a4f2df994d8de38692df40a34, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10977,7 +10977,7 @@ GameObject:
   - component: {fileID: 918067255}
   - component: {fileID: 918067254}
   m_Layer: 5
-  m_Name: Course (11)
+  m_Name: C12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11134,7 +11134,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ca45b371ef5447a4f84a14b15ff28e50, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d3442c4a9495a3247a6e08e391958467, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11168,7 +11168,7 @@ GameObject:
   - component: {fileID: 920306462}
   - component: {fileID: 920306461}
   m_Layer: 5
-  m_Name: Course (43)
+  m_Name: C44
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11325,7 +11325,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 80d28633a0891044ca45ca39128dfdbc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c580e2d87e0a30f438a1eafb4861ce19, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11762,7 +11762,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7cc703438f0383f44a6cc0120b87be3a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: af1ceffa08643804cbf8bd2a319088f3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11948,7 +11948,7 @@ GameObject:
   - component: {fileID: 1022155965}
   - component: {fileID: 1022155964}
   m_Layer: 5
-  m_Name: Course (13)
+  m_Name: C14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12105,7 +12105,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 520280ae827a9704a9ffa84754306ae8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1c2e42e560dafdc45b959d4ea2ffe92e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12215,7 +12215,7 @@ GameObject:
   - component: {fileID: 1030936563}
   - component: {fileID: 1030936562}
   m_Layer: 5
-  m_Name: Course (37)
+  m_Name: C38
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12372,7 +12372,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f0b1efe59a06f3e4fb04bb41b1c6f1c4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7a461f520f28f0c478542081bfb20b4d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12447,7 +12447,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2e737f3036133fb4a8243fcb67c71e59, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4176882e555acf047851193460136230, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12656,7 +12656,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 031c73e9d2121574685b513307b894d3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 68bdd8e7e465330408be24effaef8fbc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12865,7 +12865,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1bf8f47aab60a024aa6bd455808bced5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6c8765ec7024c7b49910f01d06b09668, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12899,7 +12899,7 @@ GameObject:
   - component: {fileID: 1079598318}
   - component: {fileID: 1079598317}
   m_Layer: 5
-  m_Name: Course (18)
+  m_Name: C19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13056,7 +13056,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 82ac8b4ae97ef374c929bff11f7d3d5b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 60e67012708762448ae5d9f1e334fcf2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13165,7 +13165,7 @@ GameObject:
   - component: {fileID: 1101429454}
   - component: {fileID: 1101429453}
   m_Layer: 5
-  m_Name: Course (23)
+  m_Name: C24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13322,7 +13322,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0fea13c558f03b44fa7f7cfd5e30bf1a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6941afc6c983de847a3c86f80e7af49a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13473,7 +13473,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0ffdd4d9e67fee9429f4bb9bb5598f55, type: 3}
+  m_Sprite: {fileID: 21300000, guid: af0de64afcb77ff4b98919e7b02fedcb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13624,7 +13624,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: df17f428cf2c5ff44bba79fe5bc51631, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de7b1585cca9b2041a764cbb1afa4cda, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13658,7 +13658,7 @@ GameObject:
   - component: {fileID: 1138226398}
   - component: {fileID: 1138226397}
   m_Layer: 5
-  m_Name: Course (46)
+  m_Name: C47
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13815,7 +13815,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5aaf53a217b520a4eb8557a0d2171a97, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 512a2db0ad566f348babe0f07721baf7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14024,7 +14024,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 40519b2bed7f5664b81aeaedbef9444b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 844d0c70b64085f449fe7fc1d5574041, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14134,7 +14134,7 @@ GameObject:
   - component: {fileID: 1191990093}
   - component: {fileID: 1191990092}
   m_Layer: 5
-  m_Name: Course (34)
+  m_Name: C35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14291,7 +14291,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 672e34c2014ba26418b7064f795c6b16, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ba0379be40e50e04f9462a9d0459e3e5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14590,7 +14590,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 180c2cf7e09dd20459db82a06b42f538, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c368a626e1d89084988422813f2b8030, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14665,7 +14665,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f3c23bc78b336ec4885b22045b44492a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a105e615c2b1c434a91b21ed39abb9e3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14699,7 +14699,7 @@ GameObject:
   - component: {fileID: 1286472381}
   - component: {fileID: 1286472380}
   m_Layer: 5
-  m_Name: Course (7)
+  m_Name: C8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14856,7 +14856,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: be773f66094f8444bac5a4ec3a3fc3f5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c1ec7a6aa94633049b8a86aa719dbf85, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14890,7 +14890,7 @@ GameObject:
   - component: {fileID: 1295564693}
   - component: {fileID: 1295564692}
   m_Layer: 5
-  m_Name: Course (39)
+  m_Name: C40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15047,7 +15047,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 937785172543235408181d2be3dff903, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fc373059be9b5a14883d00bd35e121e5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15198,7 +15198,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1f0df6b72d10a1e40b776e2c87964ed5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fd853c5f764d6e741820e59c56a7ad42, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15273,7 +15273,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fdcaff6bf0a4c4b4ab676e7f0b1d818a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 156d8446d0d173e4f8dad30ad82c5d26, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15500,7 +15500,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 113a593c574900746876b4994b2ba3f1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8e3837d0329d90c4b94262428c618d41, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15785,7 +15785,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8fbdfc0f95b0a8f40a1082b4b226e8b6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5ea8727c983bac947b6c71747b49b021, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15819,7 +15819,7 @@ GameObject:
   - component: {fileID: 1404157211}
   - component: {fileID: 1404157210}
   m_Layer: 5
-  m_Name: Course (14)
+  m_Name: C15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15976,7 +15976,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7b67238d60adc0a4fada5ddf1a492f0f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bbc3843664225ab4a852776314a27bcb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16086,7 +16086,7 @@ GameObject:
   - component: {fileID: 1421700753}
   - component: {fileID: 1421700752}
   m_Layer: 5
-  m_Name: Course (38)
+  m_Name: C39
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16243,7 +16243,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2c45987a706aa9847bcf229519392ff3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 51515e969491f9f4d85f956a58a60640, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16679,7 +16679,7 @@ GameObject:
   - component: {fileID: 1444576211}
   - component: {fileID: 1444576210}
   m_Layer: 5
-  m_Name: Course (15)
+  m_Name: C16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16836,7 +16836,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2caa8d2d09655d9418186ff03e855aea, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c5c3cf01b8d68144eb30d8adef4c7b02, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16911,7 +16911,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e813b1d08a0cf61418d52daa29301624, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 485dd0b3d408ccc448d38bb38aefbd27, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16986,7 +16986,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8623730c2761d8945a57ae3e768d5200, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e77df4692f86e594eaffa03006f18bc6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17516,7 +17516,7 @@ GameObject:
   - component: {fileID: 1518211117}
   - component: {fileID: 1518211116}
   m_Layer: 5
-  m_Name: Course (1)
+  m_Name: C2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17673,7 +17673,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 55598d0d8cdec464e99b9fc72bacfe37, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 861248deb41a7264b80f8d67d8eeecc6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17882,7 +17882,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9f460ca407a42a64790c0da3a9dcecac, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 76c2e2bc1cb142746846c966b769dbe0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17916,7 +17916,7 @@ GameObject:
   - component: {fileID: 1532553535}
   - component: {fileID: 1532553534}
   m_Layer: 5
-  m_Name: Course (36)
+  m_Name: C37
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18073,7 +18073,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2e4748ef91fbbc345a280f9bb7c29f73, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 55598d0d8cdec464e99b9fc72bacfe37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18148,7 +18148,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7724b80d04a128c47b3f8a007cb34950, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 221673cc51422cd46b04571c92c1393e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18182,7 +18182,7 @@ GameObject:
   - component: {fileID: 1573044932}
   - component: {fileID: 1573044931}
   m_Layer: 5
-  m_Name: Course (10)
+  m_Name: C11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18339,7 +18339,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9f3834b9255837042a7145a823f0609c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c4cd5ee3e4a8b3e499bae5ed5adfbb12, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18414,7 +18414,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2c3ff9d5db712894baf70a960dc0232e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 49022b9d3f09b784781ebafdf2084824, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18623,7 +18623,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f43819be5623ea5408dab3cb06b9af1e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 33796925877b7c64a81225da9bdc49ec, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18791,7 +18791,7 @@ GameObject:
   - component: {fileID: 1678922306}
   - component: {fileID: 1678922305}
   m_Layer: 5
-  m_Name: Course (33)
+  m_Name: C34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18948,7 +18948,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3b9d8da0f16e8024c8999a1c8e3673e4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9957597710a62084287dc5e81dcc5790, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18982,7 +18982,7 @@ GameObject:
   - component: {fileID: 1690952012}
   - component: {fileID: 1690952011}
   m_Layer: 5
-  m_Name: Course (26)
+  m_Name: C27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19139,7 +19139,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7a461f520f28f0c478542081bfb20b4d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 165325d6567db8740948dd93408d02f9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19325,7 +19325,7 @@ GameObject:
   - component: {fileID: 1705219065}
   - component: {fileID: 1705219064}
   m_Layer: 5
-  m_Name: Course (19)
+  m_Name: C20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19482,7 +19482,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: de3296a2d54b9b342ac1015255a947c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2c45987a706aa9847bcf229519392ff3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19557,7 +19557,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 17be58208dafc2e4c803cbc268fc5098, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1bf895bcf2c76814daae95810497a22f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19900,7 +19900,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 01ad4892183d7f1409d1e04631508364, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2d30224addd4be42ab30b87589c70e8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19975,7 +19975,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 400cc0ce1fdd6a7418985547f42b2132, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 29ae9bbbffdade944928002d7125d429, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -20085,7 +20085,7 @@ GameObject:
   - component: {fileID: 1809533052}
   - component: {fileID: 1809533051}
   m_Layer: 5
-  m_Name: Course (25)
+  m_Name: C26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20242,7 +20242,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c4cd5ee3e4a8b3e499bae5ed5adfbb12, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4c924d2016ad1114f9209dc73c4f103d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -20469,7 +20469,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 688b88664568fbb43a81ec55f8d1c09f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9e00171e1d3cd38409735ab13cec512e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -20888,7 +20888,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0d298e53cf33de24aae329e1240ba90d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3044131859d354b46b040d5dab9ff1b6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21039,7 +21039,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0b39ed5b6e03e36438224f4fa3644bd5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b921201b61272174e813505c164b0930, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21779,7 +21779,7 @@ GameObject:
   - component: {fileID: 1964686667}
   - component: {fileID: 1964686666}
   m_Layer: 5
-  m_Name: Course (21)
+  m_Name: C22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21936,7 +21936,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8077e7ec192e0674eb8c3567bad89b10, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2036540393541f4690ca0581bac06e2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22145,7 +22145,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9f8bba1841e6c5c46a7b0dab915933cd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ce9c7de9ff15f704ea121f49966c9e08, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22389,7 +22389,7 @@ GameObject:
   - component: {fileID: 2024644727}
   - component: {fileID: 2024644726}
   m_Layer: 5
-  m_Name: Course (47)
+  m_Name: C48
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22546,7 +22546,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c580e2d87e0a30f438a1eafb4861ce19, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 82ac8b4ae97ef374c929bff11f7d3d5b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22755,7 +22755,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e7931d77897098f479306269b5e9a453, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0bdc50512174a854a8e28c634c5646fb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22830,7 +22830,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 57a60bccde744ee47885382a80297fa5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9680d67abb48afe4686bc3158d9bbe2d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22905,7 +22905,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 662148e890ca42a44bdb78118d453ae5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1aa7bb5d17012fa419fd3b12a54ed688, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22939,7 +22939,7 @@ GameObject:
   - component: {fileID: 2094363233}
   - component: {fileID: 2094363232}
   m_Layer: 5
-  m_Name: Course (29)
+  m_Name: C30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23096,7 +23096,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 53e3de7fbdfaedc4895e57654d260fe6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f6d4156ee5ff1144cb0db4fc20552d8e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -23130,7 +23130,7 @@ GameObject:
   - component: {fileID: 2108993438}
   - component: {fileID: 2108993437}
   m_Layer: 5
-  m_Name: Course (45)
+  m_Name: C46
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23287,7 +23287,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8707f0a607f46c9408d8a9b447c328d1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 447cb6e9ccdd8f5488026d864223afe9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -23321,7 +23321,7 @@ GameObject:
   - component: {fileID: 2118429340}
   - component: {fileID: 2118429339}
   m_Layer: 5
-  m_Name: Course (3)
+  m_Name: C4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23478,7 +23478,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6941afc6c983de847a3c86f80e7af49a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8077e7ec192e0674eb8c3567bad89b10, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -23629,7 +23629,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c372732185352b942b1cf48235de72bd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 03c6509bbdee00e40b4eb8806e994ef7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
